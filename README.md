@@ -1,5 +1,7 @@
 # SsdDriver
 
+[![Build Status](https://travis-ci.org/kokabe2/SsdDriver.svg?branch=master)](https://travis-ci.org/kokabe2/SsdDriver)
+
 A seven-segment display driver for embedded systems.
 
 ## Features
